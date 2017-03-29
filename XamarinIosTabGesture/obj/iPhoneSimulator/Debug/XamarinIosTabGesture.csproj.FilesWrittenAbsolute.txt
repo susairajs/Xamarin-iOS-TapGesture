@@ -1,0 +1,10 @@
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/optimized/github.png
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/bin/iPhoneSimulator/Debug/XamarinIosTabGesture.exe.mdb
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/bin/iPhoneSimulator/Debug/XamarinIosTabGesture.exe
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/XamarinIosTabGesture.exe
+/Users/DELPIN/Projects/XamarinIosTabGesture/XamarinIosTabGesture/obj/iPhoneSimulator/Debug/XamarinIosTabGesture.exe.mdb
